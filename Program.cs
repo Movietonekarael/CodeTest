@@ -16,6 +16,7 @@ namespace CodeTest
         {
             //Haha
             //Get Rect Stupid man
+            //Haha you too slow
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
