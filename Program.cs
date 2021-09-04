@@ -14,6 +14,8 @@ namespace CodeTest
         [STAThread]
         static void Main()
         {
+            //Haha
+            //Get Rect Stupid man
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
